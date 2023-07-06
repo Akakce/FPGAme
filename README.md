@@ -8,7 +8,7 @@ A Tic-Tac-Toe variant named "Triangles vs. Circles" has been utilized in this pr
 
 This game was developed for Field Programmable Gate Arrays (FPGAs). The capacity to edit hardware using Hardware Description Languages (HDLs) and digital design tools like Quartus II is provided by FPGAs, which are specialized integrated circuits. In comparison to conventional CPUs found in regular computers, this capacity to alter the hardware enables for quicker processing speeds and better configurability.
 
-The VGA (Video Graphics Array) protocol is used to facilitate game display on a monitor. The VGA protocol, created by IBM in 1987 [1], functions as a controller for video displays. It provides a variety of display modes. This project uses a 3-channel, 16-bit, 60 Hz, 640x480 resolution mode.
+The VGA (Video Graphics Array) protocol is used to facilitate game display on a monitor. The VGA protocol, created by IBM in 1987, functions as a controller for video displays. It provides a variety of display modes. This project uses a 3-channel, 16-bit, 60 Hz, 640x480 resolution mode.
 
 **Design Requirements**
 
